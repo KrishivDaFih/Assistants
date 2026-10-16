@@ -6,6 +6,11 @@ One installer for the whole assistant series. Run **Assistants-Setup**, tick the
 
 Download it from the [Releases](../../releases) page.
 
+## What's new in 1.0.1
+
+- ULTRON updated to 1.1.1 with a brighter logo (app icon and setup artwork).
+- The other five assistants are unchanged.
+
 ## The series, oldest to newest
 
 | # | Assistant | What it is | Repo |
